@@ -55,14 +55,7 @@ transition: .5s;
 
 
 body {
-background-image: url('new/1.jpg');
-background-repeat: no-repeat;
-background-position: center center;
-background-attachment: fixed;
-background-size: 100% 100%;
-padding-left: 0%;
-padding-right: 0%;
-box-sizing:border-box
+background: #081b29;
 
 }
 
